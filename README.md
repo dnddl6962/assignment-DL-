@@ -16,13 +16,10 @@ deepctr.__version__ == '0.9.3'
 
 ### 구성
 
-movielens.csv --> 기존 데이터셋
 
 module.py --> 모듈
 
 main.py --> 실행 파일
-
-predictions.csv --> 결과물(유저아이디, 영화이름, 유저가 영화를 볼 확률)
 
 ossme_movie.ipynb --> 분기 전 주피터 노트북 파일
 
@@ -56,13 +53,9 @@ matplotlib.__version__ == '3.8.2'
 
 ### 구성
 
-images(디렉토리) --> 포켓몬 이미지 데이터 셋
-
 feature_extraction.py --> 모듈
 
 main.py --> 실행 파일
-
-pokemon.csv --> 포켓몬 정보 csv파일(사용안함)
 
 pika.ipynb --> 분기 전 주피터 노트북 파일
 
